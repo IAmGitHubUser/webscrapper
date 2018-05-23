@@ -1,0 +1,21 @@
+{
+  "name": "webscrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "github:GoogleChrome/puppeteer",
+  "compileOnSave": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.3.0"
+  },
+  "devDependencies": {
+    "alphavantage": "^1.1.1",
+    "yahoo-stock-prices": "^1.0.0"
+  }
+}
